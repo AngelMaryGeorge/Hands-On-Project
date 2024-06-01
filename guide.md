@@ -90,7 +90,7 @@ Examples:
 
 **Nmap Scan**: Conduct a network scan using Nmap.
 
-``bash
+```bash
 nmap -sP 192.168.1.0/24
 ```
 **SQL Injection**: Perform an SQL injection attack on a web application.
