@@ -23,6 +23,7 @@ You will set up a home lab that simulates a real-world SOC environment, using to
 
 **Books**: "The Practice of Network Security Monitoring" by Richard Bejtlich and "Applied Network Security Monitoring" by Chris Sanders and Jason Smith.
 
-By completing this project, you will gain practical experience in setting up and managing a SOC environment, detecting and responding to security incidents, and using essential cybersecurity tools and practices. T
+By completing this project, you will gain practical experience in setting up and managing a SOC environment, detecting and responding to security incidents, and using essential cybersecurity tools and practices. 
 
-his will prepare you well for a SOC analyst interview.
+
+This will prepare you well for a SOC analyst interview.
